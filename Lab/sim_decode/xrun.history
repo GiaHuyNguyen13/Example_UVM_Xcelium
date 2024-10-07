@@ -1,0 +1,5 @@
+s1(06Oct2024:07:39:27):  xrun -64bit -uvm -sv -timescale 1ns/1ps -access +rwc +incdir+/home/admin/Desktop/uvm-1.2 +define+UVM_ON_TOP +define+LENGTH=4 +define+UVM_NO_DPI -f filelist.f -top tb -l comp.log +define+TEST_CASE=test_TRUE_RANDOM 
+s2(06Oct2024:07:41:21):  xrun -64bit -uvm -sv -timescale 1ns/1ps -access +rwc +incdir+/home/admin/Desktop/uvm-1.2 +define+UVM_ON_TOP +define+LENGTH=4 +define+UVM_NO_DPI -f filelist.f -top tb -l comp.log +define+TEST_CASE=test_TRUE_RANDOM 
+s3(06Oct2024:07:41:36):  xrun -64bit -sv -timescale 1ns/1ps -access +rwc +incdir+/home/admin/Desktop/uvm-1.2 +define+UVM_ON_TOP +define+LENGTH=4 +define+UVM_NO_DPI -f filelist.f -top tb -l comp.log +define+TEST_CASE=test_TRUE_RANDOM 
+s4(06Oct2024:07:43:20):  xrun -64bit -sv -timescale 1ns/1ps -access +rwc +incdir+/home/admin/Desktop/uvm-1.2 +define+UVM_ON_TOP +define+LENGTH=4 +define+UVM_NO_DPI -f filelist.f -top tb -l comp.log +define+TEST_CASE=test_TRUE_RANDOM 
+s5(06Oct2024:07:44:07):  xrun -uvmhome /home/admin/Desktop/uvm-1.2 

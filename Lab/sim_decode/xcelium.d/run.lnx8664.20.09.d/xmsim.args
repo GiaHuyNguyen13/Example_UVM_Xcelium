@@ -1,0 +1,26 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
++UVM_VERBOSITY=UVM_HIGH
++incdir+../../../uvm-1.2/src
++define+TEST_CASE=test_TRUE_RANDOM
++define+LENGTH=4
++define+UVM_NO_DPI
+-MESSAGES
++EMGRLOG
+comp.log
+-XLSTIME
+1728280976
+-XLKEEP
+-XLMODE
+./xcelium.d/run.lnx8664.20.09.d
+-RUNMODE
+-CDSLIB
+./xcelium.d/run.lnx8664.20.09.d/cds.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.20.09.d/hdl.var
+-XLNAME
+xrun
+-XLVERSION
+"TOOL:	xrun(64)	20.09-s001"

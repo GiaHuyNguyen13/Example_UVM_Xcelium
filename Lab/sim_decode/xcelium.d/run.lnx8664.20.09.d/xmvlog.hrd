@@ -1,0 +1,12 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-INCDIR
+../../../uvm-1.2/src
+-DEFINE
+TEST_CASE=test_TRUE_RANDOM
+-DEFINE
+LENGTH=4
+-DEFINE
+UVM_NO_DPI

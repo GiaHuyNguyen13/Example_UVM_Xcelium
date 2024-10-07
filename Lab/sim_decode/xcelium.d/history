@@ -1,0 +1,5 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(07Oct2024:02:02:56):( xrun -f filelist.f -top tb -logfile comp.log +define+TEST_CASE=test_TRUE_RANDOM -timescale 1ns/1ps +define+LENGTH=4 +define+UVM_NO_DPI +UVM_VERBOSITY=UVM_HIGH )
