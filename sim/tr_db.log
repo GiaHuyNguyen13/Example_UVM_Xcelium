@@ -1,1 +1,0 @@
-  CREATE_STREAM @5 {NAME:bseq T:Transactions SCOPE:uvm_test_top.env_o.agt.seqr STREAM:2721}
