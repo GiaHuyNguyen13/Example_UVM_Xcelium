@@ -1,0 +1,12 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-f
+filelist.f
+-top
+tb_top
+-l
+compile.log
++UVM_VERBOSITY=UVM_HIGH
++define+UVM_NO_DPI

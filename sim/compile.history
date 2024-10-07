@@ -1,0 +1,7 @@
+s1(06Oct2024:23:37:54):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s2(06Oct2024:23:50:23):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s3(06Oct2024:23:51:23):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s4(06Oct2024:23:53:56):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s5(06Oct2024:23:55:10):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s6(06Oct2024:23:56:31):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH 
+s7(07Oct2024:00:00:07):  xrun -f filelist.f -top tb_top -l compile.log +UVM_VERBOSITY=UVM_HIGH +define+UVM_NO_DPI 
